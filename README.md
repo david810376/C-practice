@@ -2,7 +2,7 @@
 --------------------
 This is the C++ practice my myself, that help me studying C++
 ## ideas
-1. -[ ]Array
+1. -[X]Array
 [X] Array
  [ ] Binary search tree
  [ ] graphs
