@@ -2,7 +2,8 @@
 --------------------
 This is the C++ practice my myself, that help me studying C++
 ## ideas
- 1.[X] Array
+1. -[ ]Array
+[X] Array
  [ ] Binary search tree
  [ ] graphs
  [ ] hash_table
