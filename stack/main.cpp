@@ -1,9 +1,8 @@
-//
-//  main.cpp
-//  array
-//
-//  Created by Lee Yi Wei on 2021/6/7.
-//
+/*
+Stack
+1. first in last out
+2. 有兩個動作需要 pop push
+*/
 
 #include <iostream>
 //#include <stack>
